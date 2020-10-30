@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sundus-y.surveyorplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sundus-y.surveyorplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

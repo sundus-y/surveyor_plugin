@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sundus-y.surveyorplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sundus-y.surveyorplugin.MyBundle
 
 class MyApplicationService {
 
